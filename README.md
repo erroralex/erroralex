@@ -1,17 +1,36 @@
-# Hi, I'm Alexander, a Java Developer based in Umeå, Sweden.
+<div align="center">
+  <h1>Hi, I'm Alexander 👋</h1>
+  <h3>Java Developer based in Umeå, Sweden</h3>
 
-### A budding Java developer
+  <p>
+    <b>System Development Student</b> transitioning from the construction industry.<br>
+    I combine a strong work ethic with a passion for building software.
+  </p>
 
-- 🌱 I'm currently learning **Java, JavaFX, JavaScript, HTML**
+  <a href="https://github.com/erroralex">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/alexander-nilsson-1574b335a/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:alexander.106.nilsson@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
-- 📫 How to reach me **alexander.106.nilsson@gmail.com**
+<br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/erroralex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="erroralex" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alexander-nilsson-1574b335a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexander-nilsson-1574b335a/" height="30" width="40" /></a>
-</p>
+### 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a></p>
+- 🔭 I’m currently working on **JavaFX applications**
+- 🌱 I’m currently learning **Advanced Object-Oriented Programming & SQL**
+- 🏗️ **Background:** Former Carpenter & Tower Crane Operator
+- 🎯 **Goal:** To create efficient and sustainable software solutions
 
+---
+
+### 🛠️ Languages and Tools
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,html,js,mysql,git,maven,idea" alt="Skills" />
+</div>
