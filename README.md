@@ -1,4 +1,4 @@
-# Hi 👋, I'm Alexander Nilsson
+# Hi, I'm Alexander, a Java Developer based in Umeå, Sweden.
 
 ### A budding Java developer
 
