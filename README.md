@@ -34,3 +34,9 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,html,js,mysql,git,maven,idea" alt="Skills" />
 </div>
+
+<br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erroralex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Alex's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erroralex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</div>
