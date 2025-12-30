@@ -1,41 +1,62 @@
 <div align="center">
-  <h1>Hi, I'm Alexander 👋</h1>
-  <h3>Java Developer based in Umeå, Sweden</h3>
+  <img src="https://github.com/user-attachments/assets/36bba0c1-a027-4301-8cff-ced8926f2205" width="160" alt="AK Logo">
+
+  <h1>Hi, I'm Alexander <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Java+Developer+based+in+Ume%C3%A5;System+Development+Student;Constructing+Code+(Former+Carpenter)" alt="Typing SVG" />
+  </a>
 
   <p>
     <b>System Development Student</b> transitioning from the construction industry.<br>
-    I combine a strong work ethic with a passion for building software.
+    I combine a strong work ethic with a passion for building clean, efficient software.
   </p>
 
-  <a href="https://github.com/erroralex">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/alexander-nilsson-1574b335a/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:alexander.106.nilsson@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
-  </a>
+  <p>
+    <a href="https://github.com/erroralex">
+      <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+    </a>
+    <a href="https://www.linkedin.com/in/alexander-nilsson-1574b335a/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
+    </a>
+    <a href="mailto:alexander.106.nilsson@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" />
+    </a>
+  </p>
 </div>
 
-<br />
+---
+
+### 🚀 Featured Project
+
+<div align="center">
+
+  **[AI Metadata Viewer](https://github.com/erroralex/metadata-viewer)**<br>
+  *A powerful desktop tool to inspect, scrub, and manage AI image metadata.*
+
+  [![Download](https://img.shields.io/github/v/release/erroralex/metadata-viewer?label=Download&style=for-the-badge&color=2f80ed&logo=windows)](https://github.com/erroralex/metadata-viewer/releases/latest)
+
+</div>
+
+---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **JavaFX applications**
+- 🔭 I’m currently working on **JavaFX Desktop Applications**
 - 🌱 I’m currently learning **Advanced Object-Oriented Programming & SQL**
-- 🏗️ **Background:** Former Carpenter & Tower Crane Operator
-- 🎯 **Goal:** To create efficient and sustainable software solutions
+- 🏗️ **Background:** Former Carpenter & Tower Crane Operator turned Developer
+- 🎯 **Goal:** To create efficient and sustainable software solutions with industrial precision
 
 ---
 
 ### 🛠️ Languages and Tools
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,js,mysql,git,maven,idea" alt="Skills" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,html,js,mysql,git,maven,idea,vscode" alt="Skills" />
 </div>
 
 <br />
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erroralex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Alex's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erroralex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
