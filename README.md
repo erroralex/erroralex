@@ -31,10 +31,10 @@
 
 <div align="center">
 
-  **[AI Metadata Viewer](https://github.com/erroralex/metadata-viewer)**<br>
-  *A powerful desktop tool to inspect, scrub, and manage AI image metadata.*
+  **[AI Toolbox](https://github.com/erroralex/ai-toolbox)**<br>
+  *A local-first, high-performance desktop asset manager for AI image generations. Features SQLite FTS5 search, ComfyUI graph parsing, visual duplicate detection, and offline AI auto-tagging.*
 
-  [![Download](https://img.shields.io/github/v/release/erroralex/metadata-viewer?label=Download&style=for-the-badge&color=2f80ed&logo=windows)](https://github.com/erroralex/metadata-viewer/releases/latest)
+  [![Download](https://img.shields.io/github/v/release/erroralex/ai-toolbox?label=Download&style=for-the-badge&color=2f80ed&logo=windows)](https://github.com/erroralex/ai-toolbox/releases/latest)
 
 </div>
 
@@ -42,8 +42,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **JavaFX Desktop Applications**
-- 🌱 I’m currently learning **Advanced Object-Oriented Programming & SQL**
+- 🔭 I’m currently working on **Hybrid Desktop Applications (Java 21 + Vue 3 + Electron)**
+- 🌱 I’m currently learning **Advanced Database Optimization (SQLite/FTS5) & Concurrency**
 - 🏗️ **Background:** Former Carpenter & Tower Crane Operator turned Developer
 - 🎯 **Goal:** To create efficient and sustainable software solutions with industrial precision
 
@@ -52,7 +52,7 @@
 ### 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,js,mysql,git,maven,idea,vscode" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=java,spring,vue,electron,sqlite,js,html,mysql,git,maven,idea,vscode" alt="Skills" />
 </div>
 
 <br />
