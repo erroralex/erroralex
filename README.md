@@ -33,6 +33,16 @@
 
   **[AI Toolbox](https://github.com/erroralex/ai-toolbox)**<br>
   *A local-first, high-performance desktop asset manager for AI image generations. Features SQLite FTS5 search, ComfyUI graph parsing, visual duplicate detection, and offline AI auto-tagging.*
+  
+  <br>
+
+  <a href="https://github.com/erroralex/ai-toolbox">
+    <img alt="Image" src="https://github.com/user-attachments/assets/b2a376c6-3a42-4b57-9e03-7a5130a0290a" width="600" alt="AI Toolbox Application Screenshot">
+  </a>
+
+  
+
+  <br><br>
 
   [![Download](https://img.shields.io/github/v/release/erroralex/ai-toolbox?label=Download&style=for-the-badge&color=2f80ed&logo=windows)](https://github.com/erroralex/ai-toolbox/releases/latest)
 
