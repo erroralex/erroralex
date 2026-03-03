@@ -44,7 +44,25 @@
 
   <br><br>
 
-  [![Download](https://img.shields.io/github/v/release/erroralex/ai-toolbox?label=Download&style=for-the-badge&color=2f80ed&logo=windows)](https://github.com/erroralex/Latent-Library/releases/latest)
+  [![Latest Release](https://img.shields.io/github/v/release/erroralex/Latent-Library?label=Download&style=for-the-badge&color=2f80ed&logo=windows)](https://github.com/erroralex/Latent-Library/releases/latest)
+  [![Total Downloads](https://img.shields.io/github/downloads/erroralex/Latent-Library/total?style=for-the-badge&color=2f80ed&logo=github&label=Downloads&cacheSeconds=0)](https://github.com/erroralex/Latent-Library/releases)
+  [![Stars](https://img.shields.io/github/stars/erroralex/Latent-Library?style=for-the-badge&color=2f80ed&logo=github&label=Stars)](https://github.com/erroralex/Latent-Library/stargazers)
+
+</div>
+
+
+---
+
+### 🔍 Also by Me
+<div align="center">
+
+  **[Metadata Viewer](https://github.com/erroralex/Metadata-Viewer)**<br>
+  *A JavaFX desktop application for extracting and managing AI image generation metadata across multiple platforms. Features recursive parsing logic, JSON persistence, and a custom dark theme.*
+  <br>
+
+[![Download](https://img.shields.io/badge/Download-v1.1.0-2f80ed?style=for-the-badge&logo=windows)](https://github.com/erroralex/Metadata-Viewer/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/erroralex/Metadata-Viewer/total?style=for-the-badge&color=2f80ed&logo=github&label=Downloads)](https://github.com/erroralex/Metadata-Viewer/releases)
+[![Stars](https://img.shields.io/github/stars/erroralex/Metadata-Viewer?style=for-the-badge&color=2f80ed&logo=github&label=Stars)](https://github.com/erroralex/Metadata-Viewer/stargazers)
 
 </div>
 
