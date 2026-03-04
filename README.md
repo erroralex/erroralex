@@ -31,7 +31,7 @@
 
 <div align="center">
 
-  **[Latent Library](https://github.com/erroralex/Latent-Library)**<br>
+  ### **[Latent Library](https://github.com/erroralex/Latent-Library)**<br>
   *A local-first, high-performance desktop asset manager for AI image generations. Features SQLite FTS5 search, ComfyUI graph parsing, visual duplicate detection, and offline AI auto-tagging.*
   
   <br>
@@ -56,7 +56,7 @@
 ### 🔍 Also by Me
 <div align="center">
 
-  **[Metadata Viewer](https://github.com/erroralex/Metadata-Viewer)**<br>
+  ### **[Metadata Viewer](https://github.com/erroralex/Metadata-Viewer)**<br>
   *A JavaFX desktop application for extracting and managing AI image generation metadata across multiple platforms. Features recursive parsing logic, JSON persistence, and a custom dark theme.*
   <br>
 
