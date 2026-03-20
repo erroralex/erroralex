@@ -48,6 +48,23 @@
   [![Total Downloads](https://img.shields.io/github/downloads/erroralex/Latent-Library/total?style=for-the-badge&color=2f80ed&logo=github&label=Downloads&cacheSeconds=0)](https://github.com/erroralex/Latent-Library/releases)
   [![Stars](https://img.shields.io/github/stars/erroralex/Latent-Library?style=for-the-badge&color=2f80ed&logo=github&label=Stars)](https://github.com/erroralex/Latent-Library/stargazers)
 
+<br><br><br>
+
+  ### **[Latent Model Organizer](https://github.com/erroralex/latent-model-organizer)**<br>
+  *A high-performance desktop utility designed to wrangle massive AI model libraries. Organizes models by architecture using zero-copy `.safetensors` header parsing and features an automated Civitai metadata fetcher.*
+  
+  <br>
+
+  <a href="https://github.com/erroralex/latent-model-organizer">
+    <img alt="Image" src="https://raw.githubusercontent.com/erroralex/latent-model-organizer/main/frontend/src/assets/screenshots/Organizer-LMO.png" width="600" alt="Latent Model Organizer Application Screenshot">
+  </a>
+
+  <br><br>
+
+  [![Latest Release](https://img.shields.io/github/v/release/erroralex/latent-model-organizer?label=Download&style=for-the-badge&color=2f80ed&logo=windows)](https://github.com/erroralex/latent-model-organizer/releases/latest)
+  [![Total Downloads](https://img.shields.io/github/downloads/erroralex/latent-model-organizer/total?style=for-the-badge&color=2f80ed&logo=github&label=Downloads&cacheSeconds=0)](https://github.com/erroralex/latent-model-organizer/releases)
+  [![Stars](https://img.shields.io/github/stars/erroralex/latent-model-organizer?style=for-the-badge&color=2f80ed&logo=github&label=Stars)](https://github.com/erroralex/latent-model-organizer/stargazers)
+
 </div>
 
 
