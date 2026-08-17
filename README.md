@@ -150,15 +150,6 @@ Four local-first tools for the AI image generation workflow: organize models, pr
 
 ---
 
-### About Me
-
-- 🔭 I'm currently working on **Hybrid Desktop Applications (Java 21 + Vue 3 + Electron)**
-- 🌱 I'm currently learning **Advanced Database Optimization (SQLite/FTS5) & Concurrency**
-- 🏗️ **Background:** Former Carpenter & Tower Crane Operator turned Developer
-- 🎯 **Goal:** To create efficient and sustainable software solutions with industrial precision
-
----
-
 ### Languages and Tools
 
 <div align="center">
