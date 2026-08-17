@@ -29,16 +29,16 @@
 
 ## The Latent Suite
 
-Local-first desktop tools for the AI image generation workflow. Organize models, prepare training datasets, and manage your generated library.
+Four local-first tools for the AI image generation workflow: organize models, prep training data, browse generations, and inspect metadata. Everything runs on your machine. Nothing leaves it.
 
 <div align="center">
 
 | | App | Purpose |
 |:-:|:-:|:-:|
-| **1** | [Latent Library](https://github.com/erroralex/Latent-Library) | Asset manager for AI generations |
-| **2** | [Latent Model Organizer](https://github.com/erroralex/Latent-Model-Organizer) | .safetensors model library manager |
-| **3** | [Latent Tools](https://github.com/erroralex/Latent-Tools) | Dataset prep & LoRA training utility |
-| **4** | [Metadata Viewer](https://github.com/erroralex/Metadata-Viewer) | AI image metadata extraction |
+| <img src="https://raw.githubusercontent.com/erroralex/Latent-Library/main/frontend/src/assets/latent-mark.svg" width="28" alt="Latent Library icon"> | [Latent Library](https://github.com/erroralex/Latent-Library) | Asset manager for AI generations |
+| <img src="https://raw.githubusercontent.com/erroralex/Latent-Model-Organizer/main/frontend/src/assets/latent-mark.svg" width="28" alt="Latent Model Organizer icon"> | [Latent Model Organizer](https://github.com/erroralex/Latent-Model-Organizer) | .safetensors model library manager |
+| <img src="https://raw.githubusercontent.com/erroralex/Latent-Tools/main/src/renderer/assets/latent-mark.svg" width="28" alt="Latent Tools icon"> | [Latent Tools](https://github.com/erroralex/Latent-Tools) | Dataset prep & LoRA training utility |
+| <img src="https://raw.githubusercontent.com/erroralex/Metadata-Viewer/main/src/main/resources/icon.png" width="28" alt="Metadata Viewer icon"> | [Metadata Viewer](https://github.com/erroralex/Metadata-Viewer) | AI image metadata extraction |
 
 </div>
 
@@ -48,7 +48,9 @@ Local-first desktop tools for the AI image generation workflow. Organize models,
 
 <div align="center">
 
-  *Local-first desktop asset manager for AI image generations. SQLite FTS5 search, ComfyUI graph parsing, visual duplicate detection, and offline AI auto-tagging.*
+  <img src="https://raw.githubusercontent.com/erroralex/Latent-Library/main/frontend/src/assets/latent-mark.svg" width="56" alt="Latent Library icon"><br><br>
+
+  *Search, tag, and de-duplicate your AI generations without touching the cloud. Full-text SQLite search, ComfyUI graph parsing, visual duplicate detection, and offline AI auto-tagging, all running locally.*
 
   <br>
 
@@ -73,7 +75,9 @@ Local-first desktop tools for the AI image generation workflow. Organize models,
 
 <div align="center">
 
-  *Desktop utility for organizing large AI model libraries. Sorts models by architecture using zero-copy `.safetensors` header parsing, with automated Civitai metadata fetching.*
+  <img src="https://raw.githubusercontent.com/erroralex/Latent-Model-Organizer/main/frontend/src/assets/latent-mark.svg" width="56" alt="Latent Model Organizer icon"><br><br>
+
+  *Stop hand-sorting hundreds of checkpoints and LoRAs. Automatically sorts your model library by architecture using zero-copy `.safetensors` header parsing, and fetches Civitai metadata for everything it finds.*
 
   <br>
 
@@ -98,7 +102,9 @@ Local-first desktop tools for the AI image generation workflow. Organize models,
 
 <div align="center">
 
-  *Bulk image dataset preparation for Windows. AI watermark removal (Florence-2 + LaMa), multi-format export, and image captioning (Qwen2-VL). Runs 100% on-device with an embedded Python GPU sidecar.*
+  <img src="https://raw.githubusercontent.com/erroralex/Latent-Tools/main/src/renderer/assets/latent-mark.svg" width="56" alt="Latent Tools icon"><br><br>
+
+  *Turn a folder of raw images into a training-ready dataset. AI watermark removal (Florence-2 + LaMa), multi-format export, and image captioning (Qwen2-VL), all on your own GPU. No uploads, no API keys, no content filters.*
 
   <br>
 
@@ -123,7 +129,9 @@ Local-first desktop tools for the AI image generation workflow. Organize models,
 
 <div align="center">
 
-  *JavaFX desktop app for extracting AI image generation metadata across multiple platforms. Recursive parsing, JSON persistence, and a custom dark theme.*
+  <img src="https://raw.githubusercontent.com/erroralex/Metadata-Viewer/main/src/main/resources/icon.png" width="56" alt="Metadata Viewer icon"><br><br>
+
+  *The fast, no-frills companion for pulling generation metadata out of a folder of images. Recursive parsing across multiple platforms, JSON persistence, and a custom dark theme, in a JavaFX app that does one thing well.*
 
   <br>
 
