@@ -147,7 +147,7 @@ Four local-first tools for the AI image generation workflow: organize models, pr
 
   <br><br>
 
-  *The fast, no-frills companion for pulling generation metadata out of a folder of images. Recursive parsing across multiple platforms, JSON persistence, and a custom dark theme, in a JavaFX app that does one thing well.*
+  *The fast, no-frills companion for pulling generation metadata out of locally generated AI images. Recursive parsing across multiple platforms, JSON persistence, and the Latent dark theme, in a JavaFX app that does one thing well.*
 
   <br>
 
