@@ -44,11 +44,15 @@ Four local-first tools for the AI image generation workflow: organize models, pr
 
 ---
 
-### Latent Library - *Browse and organize your generations*
-
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/erroralex/Latent-Library/main/frontend/src/assets/latent-mark.svg" width="56" alt="Latent Library icon"><br><br>
+  <img src="https://raw.githubusercontent.com/erroralex/Latent-Library/main/frontend/src/assets/latent-mark.svg" width="56" alt="Latent Library icon">
+
+  <h1>Latent Library</h1>
+
+  *Browse and organize your generations*
+
+  <br><br>
 
   *Search, tag, and de-duplicate your AI generations without touching the cloud. Full-text SQLite search, ComfyUI graph parsing, visual duplicate detection, and offline AI auto-tagging, all running locally.*
 
@@ -71,11 +75,15 @@ Four local-first tools for the AI image generation workflow: organize models, pr
 
 ---
 
-### Latent Model Organizer - *Sort and enrich your model library*
-
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/erroralex/Latent-Model-Organizer/main/frontend/src/assets/latent-mark.svg" width="56" alt="Latent Model Organizer icon"><br><br>
+  <img src="https://raw.githubusercontent.com/erroralex/Latent-Model-Organizer/main/frontend/src/assets/latent-mark.svg" width="56" alt="Latent Model Organizer icon">
+
+  <h1>Latent Model Organizer</h1>
+
+  *Sort and enrich your model library*
+
+  <br><br>
 
   *Stop hand-sorting hundreds of checkpoints and LoRAs. Automatically sorts your model library by architecture using zero-copy `.safetensors` header parsing, and fetches Civitai metadata for everything it finds.*
 
@@ -98,11 +106,15 @@ Four local-first tools for the AI image generation workflow: organize models, pr
 
 ---
 
-### Latent Tools - *Prep datasets for LoRA training*
-
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/erroralex/Latent-Tools/main/src/renderer/assets/latent-mark.svg" width="56" alt="Latent Tools icon"><br><br>
+  <img src="https://raw.githubusercontent.com/erroralex/Latent-Tools/main/src/renderer/assets/latent-mark.svg" width="56" alt="Latent Tools icon">
+
+  <h1>Latent Tools</h1>
+
+  *Prep datasets for LoRA training*
+
+  <br><br>
 
   *Turn a folder of raw images into a training-ready dataset. AI watermark removal (Florence-2 + LaMa), multi-format export, and image captioning (Qwen2-VL), all on your own GPU. No uploads, no API keys, no content filters.*
 
@@ -125,11 +137,15 @@ Four local-first tools for the AI image generation workflow: organize models, pr
 
 ---
 
-### Metadata Viewer - *Read generation data from any image*
-
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/erroralex/Metadata-Viewer/main/src/main/resources/icon.png" width="56" alt="Metadata Viewer icon"><br><br>
+  <img src="https://raw.githubusercontent.com/erroralex/Metadata-Viewer/main/src/main/resources/icon.png" width="56" alt="Metadata Viewer icon">
+
+  <h1>Metadata Viewer</h1>
+
+  *Read generation data from any image*
+
+  <br><br>
 
   *The fast, no-frills companion for pulling generation metadata out of a folder of images. Recursive parsing across multiple platforms, JSON persistence, and a custom dark theme, in a JavaFX app that does one thing well.*
 
