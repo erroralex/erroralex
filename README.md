@@ -44,7 +44,7 @@ Four local-first tools for the AI image generation workflow: organize models, pr
 
 ---
 
-### Latent Library - *The Main Hero*
+### Latent Library - *Browse and organize your generations*
 
 <div align="center">
 
@@ -71,7 +71,7 @@ Four local-first tools for the AI image generation workflow: organize models, pr
 
 ---
 
-### Latent Model Organizer - *The Model Utility*
+### Latent Model Organizer - *Sort and enrich your model library*
 
 <div align="center">
 
@@ -98,7 +98,7 @@ Four local-first tools for the AI image generation workflow: organize models, pr
 
 ---
 
-### Latent Tools - *The LoRA Training Utility*
+### Latent Tools - *Prep datasets for LoRA training*
 
 <div align="center">
 
@@ -125,7 +125,7 @@ Four local-first tools for the AI image generation workflow: organize models, pr
 
 ---
 
-### Metadata Viewer - *The Related Cousin*
+### Metadata Viewer - *Read generation data from any image*
 
 <div align="center">
 
