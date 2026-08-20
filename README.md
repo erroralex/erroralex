@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/36bba0c1-a027-4301-8cff-ced8926f2205" width="76" alt="AK">
+<img src="https://github.com/erroralex/erroralex/blob/main/alx_logo.png" width="120" alt="AK">
 
 # Hi, I'm Alexander
 
