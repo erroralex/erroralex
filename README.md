@@ -7,10 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Java+Developer+based+in+Ume%C3%A5;System+Development+Student;Constructing+Code+(Former+Carpenter)" alt="Typing SVG" />
   </a>
 
-  <p>
-    <b>System Development Student</b> transitioning from the construction industry.<br>
-    I combine a strong work ethic with a passion for building clean, efficient software.
-  </p>
+  <p>Open to new opportunities.</p>
 
   <p>
     <a href="https://github.com/erroralex">
@@ -25,24 +22,31 @@
   </p>
 </div>
 
----
-
-## The Latent Suite
-
-Four local-first tools for the AI image generation workflow: organize models, prep training data, browse generations, and inspect metadata. Everything runs on your machine. Nothing leaves it.
+<img src="https://raw.githubusercontent.com/erroralex/portfolio/main/assets/readme-divider.svg" width="100%" height="4" alt="">
 
 <div align="center">
 
-| | App | Purpose |
-|:-:|:-:|:-:|
-| <img src="https://raw.githubusercontent.com/erroralex/Latent-Library/main/frontend/src/assets/latent-mark.svg" width="28" alt="Latent Library icon"> | [Latent Library](https://github.com/erroralex/Latent-Library) | Asset manager for AI generations |
-| <img src="https://raw.githubusercontent.com/erroralex/Latent-Model-Organizer/main/frontend/src/assets/latent-mark.svg" width="28" alt="Latent Model Organizer icon"> | [Latent Model Organizer](https://github.com/erroralex/Latent-Model-Organizer) | .safetensors model library manager |
-| <img src="https://raw.githubusercontent.com/erroralex/Latent-Tools/main/src/renderer/assets/latent-mark.svg" width="28" alt="Latent Tools icon"> | [Latent Tools](https://github.com/erroralex/Latent-Tools) | Dataset prep & LoRA training utility |
-| <img src="https://raw.githubusercontent.com/erroralex/Metadata-Viewer/main/src/main/resources/icon.png" width="28" alt="Metadata Viewer icon"> | [Metadata Viewer](https://github.com/erroralex/Metadata-Viewer) | AI image metadata extraction |
+  <h1>Portfolio</h1>
+
+  *Background, stack, and projects, all in one place*
+
+  <br><br>
+
+  <a href="https://erroralex.github.io/portfolio/">
+    <img src="https://raw.githubusercontent.com/erroralex/portfolio/main/assets/portfolio-hero-screenshot.png" width="600" alt="Portfolio site screenshot">
+  </a>
+
+  <br><br>
+
+  [![View Portfolio](https://img.shields.io/badge/Portfolio-View_Live-4FD8D0?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0A0D)](https://erroralex.github.io/portfolio/)
 
 </div>
 
----
+<br>
+
+<img src="https://raw.githubusercontent.com/erroralex/portfolio/main/assets/readme-divider.svg" width="100%" height="4" alt="">
+
+## My Projects
 
 <div align="center">
 
@@ -73,7 +77,7 @@ Four local-first tools for the AI image generation workflow: organize models, pr
 
 <br>
 
----
+<img src="https://raw.githubusercontent.com/erroralex/portfolio/main/assets/readme-divider.svg" width="100%" height="4" alt="">
 
 <div align="center">
 
@@ -104,7 +108,7 @@ Four local-first tools for the AI image generation workflow: organize models, pr
 
 <br>
 
----
+<img src="https://raw.githubusercontent.com/erroralex/portfolio/main/assets/readme-divider.svg" width="100%" height="4" alt="">
 
 <div align="center">
 
@@ -135,7 +139,7 @@ Four local-first tools for the AI image generation workflow: organize models, pr
 
 <br>
 
----
+<img src="https://raw.githubusercontent.com/erroralex/portfolio/main/assets/readme-divider.svg" width="100%" height="4" alt="">
 
 <div align="center">
 
@@ -163,20 +167,3 @@ Four local-first tools for the AI image generation workflow: organize models, pr
   [![Forks](https://img.shields.io/github/forks/erroralex/Metadata-Viewer?style=for-the-badge&color=2f80ed&logo=github&label=Forks)](https://github.com/erroralex/Metadata-Viewer/network/members)
 
 </div>
-
----
-
-### Languages and Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,vue,electron,sqlite,js,html,css,python,pytorch,mysql,git,maven,idea,vscode" alt="Skills" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erroralex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Alex's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erroralex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
-
----
