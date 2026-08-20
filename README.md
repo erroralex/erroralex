@@ -1,169 +1,88 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/36bba0c1-a027-4301-8cff-ced8926f2205" width="160" alt="AK Logo">
+<img src="https://github.com/user-attachments/assets/36bba0c1-a027-4301-8cff-ced8926f2205" width="76" alt="AK">
 
-  <h1>Hi, I'm Alexander <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+# Hi, I'm Alexander
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Java+Developer+based+in+Ume%C3%A5;System+Development+Student;Constructing+Code+(Former+Carpenter)" alt="Typing SVG" />
-  </a>
+**Java Developer based in Umeå** &nbsp;·&nbsp; System Development Student &nbsp;·&nbsp; Constructing Code (Former Carpenter)
 
-  <p>Open to new opportunities.</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_live-4FD8D0?style=flat-square&labelColor=0A0A0D&logo=googlechrome&logoColor=4FD8D0)](https://erroralex.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-15151A?style=flat-square&logo=linkedin&logoColor=4FD8D0)](https://www.linkedin.com/in/alexander-nilsson-1574b335a/)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-15151A?style=flat-square&logo=gmail&logoColor=4FD8D0)](mailto:alexander.106.nilsson@gmail.com)
 
-  <p>
-    <a href="https://github.com/erroralex">
-      <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-    </a>
-    <a href="https://www.linkedin.com/in/alexander-nilsson-1574b335a/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
-    </a>
-    <a href="mailto:alexander.106.nilsson@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" />
-    </a>
-  </p>
-</div>
+## Portfolio
 
-<img src="https://raw.githubusercontent.com/erroralex/portfolio/main/assets/readme-divider.svg" width="100%" height="4" alt="">
+*Background, stack, and projects, all in one place*
 
-<div align="center">
-
-  <h1>Portfolio</h1>
-
-  *Background, stack, and projects, all in one place*
-
-  <br><br>
-
-  <a href="https://erroralex.github.io/portfolio/">
-    <img src="https://raw.githubusercontent.com/erroralex/portfolio/main/assets/portfolio-hero-screenshot.png" width="600" alt="Portfolio site screenshot">
-  </a>
-
-  <br><br>
-
-  [![View Portfolio](https://img.shields.io/badge/Portfolio-View_Live-4FD8D0?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0A0D)](https://erroralex.github.io/portfolio/)
-
-</div>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/erroralex/portfolio/main/assets/readme-divider.svg" width="100%" height="4" alt="">
+<a href="https://erroralex.github.io/portfolio/">
+  <img src="https://raw.githubusercontent.com/erroralex/portfolio/main/assets/portfolio-hero-screenshot.png" width="620" alt="Portfolio site screenshot">
+</a>
 
 ## My Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  <img src="https://raw.githubusercontent.com/erroralex/Latent-Library/main/frontend/src/assets/latent-mark.svg" width="56" alt="Latent Library icon">
+<a href="https://github.com/erroralex/Latent-Library"><img src="https://raw.githubusercontent.com/erroralex/Latent-Library/main/frontend/src/assets/screenshots/hero.jpg" width="100%" alt="Latent Library screenshot"></a>
 
-  <h1>Latent Library</h1>
+<h3><img src="https://raw.githubusercontent.com/erroralex/Latent-Library/main/frontend/src/assets/latent-mark.svg" width="20" align="top" alt=""> Latent Library</h3>
+<p><b>Browse and organize your generations</b></p>
+<p>Search, tag, and de-duplicate your AI generations without touching the cloud. Full-text SQLite search, ComfyUI graph parsing, visual duplicate detection, and offline AI auto-tagging, all running locally.</p>
+<p><code>Java</code> <code>Spring Boot</code> <code>Vue 3</code> <code>SQLite FTS5</code></p>
+<p>
+<a href="https://github.com/erroralex/Latent-Library/releases/latest"><img src="https://img.shields.io/github/v/release/erroralex/Latent-Library?style=flat-square&label=Download&labelColor=0A0A0D&color=4FD8D0&logo=windows&logoColor=4FD8D0" alt="Download"></a>
+<a href="https://github.com/erroralex/Latent-Library/releases"><img src="https://img.shields.io/github/downloads/erroralex/Latent-Library/total?style=flat-square&label=Downloads&labelColor=0A0A0D&color=15151A" alt="Downloads"></a>
+<a href="https://github.com/erroralex/Latent-Library/stargazers"><img src="https://img.shields.io/github/stars/erroralex/Latent-Library?style=flat-square&label=Stars&labelColor=0A0A0D&color=15151A" alt="Stars"></a>
+</p>
 
-  *Browse and organize your generations*
+</td>
+<td width="50%" valign="top">
 
-  <br><br>
+<a href="https://github.com/erroralex/Latent-Model-Organizer"><img src="https://raw.githubusercontent.com/erroralex/Latent-Model-Organizer/main/frontend/src/assets/screenshots/Sorter.png" width="100%" alt="Latent Model Organizer screenshot"></a>
 
-  *Search, tag, and de-duplicate your AI generations without touching the cloud. Full-text SQLite search, ComfyUI graph parsing, visual duplicate detection, and offline AI auto-tagging, all running locally.*
+<h3><img src="https://raw.githubusercontent.com/erroralex/Latent-Model-Organizer/main/frontend/src/assets/latent-mark.svg" width="20" align="top" alt=""> Latent Model Organizer</h3>
+<p><b>Sort and enrich your model library</b></p>
+<p>Stop hand-sorting hundreds of checkpoints and LoRAs. Automatically sorts your model library by architecture using zero-copy <code>.safetensors</code> header parsing, and fetches Civitai metadata for everything it finds.</p>
+<p><code>Java</code> <code>Vue 3</code> <code>Vite</code></p>
+<p>
+<a href="https://github.com/erroralex/Latent-Model-Organizer/releases/latest"><img src="https://img.shields.io/github/v/release/erroralex/Latent-Model-Organizer?style=flat-square&label=Download&labelColor=0A0A0D&color=4FD8D0&logo=windows&logoColor=4FD8D0" alt="Download"></a>
+<a href="https://github.com/erroralex/Latent-Model-Organizer/releases"><img src="https://img.shields.io/github/downloads/erroralex/Latent-Model-Organizer/total?style=flat-square&label=Downloads&labelColor=0A0A0D&color=15151A" alt="Downloads"></a>
+<a href="https://github.com/erroralex/Latent-Model-Organizer/stargazers"><img src="https://img.shields.io/github/stars/erroralex/Latent-Model-Organizer?style=flat-square&label=Stars&labelColor=0A0A0D&color=15151A" alt="Stars"></a>
+</p>
 
-  <br>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-  <a href="https://github.com/erroralex/Latent-Library">
-    <img src="https://raw.githubusercontent.com/erroralex/Latent-Library/main/frontend/src/assets/screenshots/hero.jpg" width="600" alt="Latent Library Application Screenshot">
-  </a>
+<a href="https://github.com/erroralex/Latent-Tools"><img src="https://github.com/erroralex/Latent-Tools/raw/main/assets/bulk.png" width="100%" alt="Latent Tools screenshot"></a>
 
-  <br><br>
+<h3><img src="https://raw.githubusercontent.com/erroralex/Latent-Tools/main/src/renderer/assets/latent-mark.svg" width="20" align="top" alt=""> Latent Tools</h3>
+<p><b>Prep datasets for LoRA training</b></p>
+<p>Turn a folder of raw images into a training-ready dataset. AI watermark removal (Florence-2 + LaMa), multi-format export, and image captioning (Qwen2-VL), all on your own GPU. No uploads, no API keys, no content filters.</p>
+<p><code>Electron</code> <code>TypeScript</code> <code>Python</code></p>
+<p>
+<a href="https://github.com/erroralex/Latent-Tools/releases/latest"><img src="https://img.shields.io/github/v/release/erroralex/Latent-Tools?style=flat-square&label=Download&labelColor=0A0A0D&color=4FD8D0&logo=windows&logoColor=4FD8D0" alt="Download"></a>
+<a href="https://github.com/erroralex/Latent-Tools/releases"><img src="https://img.shields.io/github/downloads/erroralex/Latent-Tools/total?style=flat-square&label=Downloads&labelColor=0A0A0D&color=15151A" alt="Downloads"></a>
+<a href="https://github.com/erroralex/Latent-Tools/stargazers"><img src="https://img.shields.io/github/stars/erroralex/Latent-Tools?style=flat-square&label=Stars&labelColor=0A0A0D&color=15151A" alt="Stars"></a>
+</p>
 
-  [![Latest Release](https://img.shields.io/github/v/release/erroralex/Latent-Library?label=Download&style=for-the-badge&color=2f80ed&logo=windows)](https://github.com/erroralex/Latent-Library/releases/latest)
-  [![Total Downloads](https://img.shields.io/github/downloads/erroralex/Latent-Library/total?style=for-the-badge&color=2f80ed&logo=github&label=Downloads&cacheSeconds=0)](https://github.com/erroralex/Latent-Library/releases)
-  [![Stars](https://img.shields.io/github/stars/erroralex/Latent-Library?style=for-the-badge&color=2f80ed&logo=github&label=Stars)](https://github.com/erroralex/Latent-Library/stargazers)
-  [![Forks](https://img.shields.io/github/forks/erroralex/Latent-Library?style=for-the-badge&color=2f80ed&logo=github&label=Forks)](https://github.com/erroralex/Latent-Library/network/members)
+</td>
+<td width="50%" valign="top">
 
-</div>
+<a href="https://github.com/erroralex/Metadata-Viewer"><img src="https://raw.githubusercontent.com/erroralex/Metadata-Viewer/main/src/main/resources/screenshots/viewer.png" width="100%" alt="Metadata Viewer screenshot"></a>
 
-<br>
+<h3><img src="https://raw.githubusercontent.com/erroralex/Metadata-Viewer/main/src/main/resources/icon.png" width="20" align="top" alt=""> Metadata Viewer</h3>
+<p><b>Read generation data from any image</b></p>
+<p>The fast, no-frills companion for pulling generation metadata out of locally generated AI images. Recursive parsing across multiple platforms, JSON persistence, and the Latent dark theme, in a JavaFX app that does one thing well.</p>
+<p><code>Java</code> <code>JavaFX</code></p>
+<p>
+<a href="https://github.com/erroralex/Metadata-Viewer/releases/latest"><img src="https://img.shields.io/github/v/release/erroralex/Metadata-Viewer?style=flat-square&label=Download&labelColor=0A0A0D&color=4FD8D0&logo=windows&logoColor=4FD8D0" alt="Download"></a>
+<a href="https://github.com/erroralex/Metadata-Viewer/releases"><img src="https://img.shields.io/github/downloads/erroralex/Metadata-Viewer/total?style=flat-square&label=Downloads&labelColor=0A0A0D&color=15151A" alt="Downloads"></a>
+<a href="https://github.com/erroralex/Metadata-Viewer/stargazers"><img src="https://img.shields.io/github/stars/erroralex/Metadata-Viewer?style=flat-square&label=Stars&labelColor=0A0A0D&color=15151A" alt="Stars"></a>
+</p>
 
-<img src="https://raw.githubusercontent.com/erroralex/portfolio/main/assets/readme-divider.svg" width="100%" height="4" alt="">
+</td>
+</tr>
+</table>
 
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/erroralex/Latent-Model-Organizer/main/frontend/src/assets/latent-mark.svg" width="56" alt="Latent Model Organizer icon">
-
-  <h1>Latent Model Organizer</h1>
-
-  *Sort and enrich your model library*
-
-  <br><br>
-
-  *Stop hand-sorting hundreds of checkpoints and LoRAs. Automatically sorts your model library by architecture using zero-copy `.safetensors` header parsing, and fetches Civitai metadata for everything it finds.*
-
-  <br>
-
-  <a href="https://github.com/erroralex/Latent-Model-Organizer">
-    <img src="https://raw.githubusercontent.com/erroralex/Latent-Model-Organizer/main/frontend/src/assets/screenshots/Sorter.png" width="600" alt="Latent Model Organizer Application Screenshot">
-  </a>
-
-  <br><br>
-
-  [![Latest Release](https://img.shields.io/github/v/release/erroralex/Latent-Model-Organizer?label=Download&style=for-the-badge&color=2f80ed&logo=windows)](https://github.com/erroralex/Latent-Model-Organizer/releases/latest)
-  [![Total Downloads](https://img.shields.io/github/downloads/erroralex/Latent-Model-Organizer/total?style=for-the-badge&color=2f80ed&logo=github&label=Downloads&cacheSeconds=0)](https://github.com/erroralex/Latent-Model-Organizer/releases)
-  [![Stars](https://img.shields.io/github/stars/erroralex/Latent-Model-Organizer?style=for-the-badge&color=2f80ed&logo=github&label=Stars)](https://github.com/erroralex/Latent-Model-Organizer/stargazers)
-  [![Forks](https://img.shields.io/github/forks/erroralex/Latent-Model-Organizer?style=for-the-badge&color=2f80ed&logo=github&label=Forks)](https://github.com/erroralex/Latent-Model-Organizer/network/members)
-
-</div>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/erroralex/portfolio/main/assets/readme-divider.svg" width="100%" height="4" alt="">
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/erroralex/Latent-Tools/main/src/renderer/assets/latent-mark.svg" width="56" alt="Latent Tools icon">
-
-  <h1>Latent Tools</h1>
-
-  *Prep datasets for LoRA training*
-
-  <br><br>
-
-  *Turn a folder of raw images into a training-ready dataset. AI watermark removal (Florence-2 + LaMa), multi-format export, and image captioning (Qwen2-VL), all on your own GPU. No uploads, no API keys, no content filters.*
-
-  <br>
-
-  <a href="https://github.com/erroralex/Latent-Tools">
-    <img src="https://github.com/erroralex/Latent-Tools/raw/main/assets/bulk.png" width="600" alt="Latent Tools Application Screenshot">
-  </a>
-
-  <br><br>
-
-  [![Latest Release](https://img.shields.io/github/v/release/erroralex/Latent-Tools?label=Download&style=for-the-badge&color=2f80ed&logo=windows)](https://github.com/erroralex/Latent-Tools/releases/latest)
-  [![Total Downloads](https://img.shields.io/github/downloads/erroralex/Latent-Tools/total?style=for-the-badge&color=2f80ed&logo=github&label=Downloads&cacheSeconds=0)](https://github.com/erroralex/Latent-Tools/releases)
-  [![Stars](https://img.shields.io/github/stars/erroralex/Latent-Tools?style=for-the-badge&color=2f80ed&logo=github&label=Stars)](https://github.com/erroralex/Latent-Tools/stargazers)
-  [![Forks](https://img.shields.io/github/forks/erroralex/Latent-Tools?style=for-the-badge&color=2f80ed&logo=github&label=Forks)](https://github.com/erroralex/Latent-Tools/network/members)
-
-</div>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/erroralex/portfolio/main/assets/readme-divider.svg" width="100%" height="4" alt="">
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/erroralex/Metadata-Viewer/main/src/main/resources/icon.png" width="56" alt="Metadata Viewer icon">
-
-  <h1>Metadata Viewer</h1>
-
-  *Read generation data from any image*
-
-  <br><br>
-
-  *The fast, no-frills companion for pulling generation metadata out of locally generated AI images. Recursive parsing across multiple platforms, JSON persistence, and the Latent dark theme, in a JavaFX app that does one thing well.*
-
-  <br>
-
-  <a href="https://github.com/erroralex/Metadata-Viewer">
-    <img src="https://raw.githubusercontent.com/erroralex/Metadata-Viewer/main/src/main/resources/screenshots/viewer.png" width="600" alt="Metadata Viewer Application Screenshot">
-  </a>
-
-  <br><br>
-
-  [![Latest Release](https://img.shields.io/github/v/release/erroralex/Metadata-Viewer?label=Download&style=for-the-badge&color=2f80ed&logo=windows)](https://github.com/erroralex/Metadata-Viewer/releases/latest)
-  [![Total Downloads](https://img.shields.io/github/downloads/erroralex/Metadata-Viewer/total?style=for-the-badge&color=2f80ed&logo=github&label=Downloads&cacheSeconds=0)](https://github.com/erroralex/Metadata-Viewer/releases)
-  [![Stars](https://img.shields.io/github/stars/erroralex/Metadata-Viewer?style=for-the-badge&color=2f80ed&logo=github&label=Stars)](https://github.com/erroralex/Metadata-Viewer/stargazers)
-  [![Forks](https://img.shields.io/github/forks/erroralex/Metadata-Viewer?style=for-the-badge&color=2f80ed&logo=github&label=Forks)](https://github.com/erroralex/Metadata-Viewer/network/members)
-
-</div>
+<sub>Umeå, Sweden · <a href="mailto:alexander.106.nilsson@gmail.com">alexander.106.nilsson@gmail.com</a> · <a href="https://www.linkedin.com/in/alexander-nilsson-1574b335a/">LinkedIn</a></sub>
