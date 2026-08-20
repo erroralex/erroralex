@@ -1,10 +1,8 @@
-<img src="https://github.com/user-attachments/assets/36bba0c1-a027-4301-8cff-ced8926f2205" width="76" alt="AK">
-
 # Hi, I'm Alexander
 
 **Java Developer based in Umeå** &nbsp;·&nbsp; System Development Student &nbsp;·&nbsp; Constructing Code (Former Carpenter)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_live-4FD8D0?style=flat-square&labelColor=0A0A0D&logo=googlechrome&logoColor=4FD8D0)](https://erroralex.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_live-14706B?style=flat-square&labelColor=0A0A0D&logo=googlechrome&logoColor=4FD8D0)](https://erroralex.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-15151A?style=flat-square&logo=linkedin&logoColor=4FD8D0)](https://www.linkedin.com/in/alexander-nilsson-1574b335a/)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-15151A?style=flat-square&logo=gmail&logoColor=4FD8D0)](mailto:alexander.106.nilsson@gmail.com)
 
@@ -29,7 +27,7 @@
 <p>Search, tag, and de-duplicate your AI generations without touching the cloud. Full-text SQLite search, ComfyUI graph parsing, visual duplicate detection, and offline AI auto-tagging, all running locally.</p>
 <p><code>Java</code> <code>Spring Boot</code> <code>Vue 3</code> <code>SQLite FTS5</code></p>
 <p>
-<a href="https://github.com/erroralex/Latent-Library/releases/latest"><img src="https://img.shields.io/github/v/release/erroralex/Latent-Library?style=flat-square&label=Download&labelColor=0A0A0D&color=4FD8D0&logo=windows&logoColor=4FD8D0" alt="Download"></a>
+<a href="https://github.com/erroralex/Latent-Library/releases/latest"><img src="https://img.shields.io/github/v/release/erroralex/Latent-Library?style=flat-square&label=Download&labelColor=0A0A0D&color=14706B&logo=windows&logoColor=4FD8D0" alt="Download"></a>
 <a href="https://github.com/erroralex/Latent-Library/releases"><img src="https://img.shields.io/github/downloads/erroralex/Latent-Library/total?style=flat-square&label=Downloads&labelColor=0A0A0D&color=15151A" alt="Downloads"></a>
 <a href="https://github.com/erroralex/Latent-Library/stargazers"><img src="https://img.shields.io/github/stars/erroralex/Latent-Library?style=flat-square&label=Stars&labelColor=0A0A0D&color=15151A" alt="Stars"></a>
 </p>
@@ -44,7 +42,7 @@
 <p>Stop hand-sorting hundreds of checkpoints and LoRAs. Automatically sorts your model library by architecture using zero-copy <code>.safetensors</code> header parsing, and fetches Civitai metadata for everything it finds.</p>
 <p><code>Java</code> <code>Vue 3</code> <code>Vite</code></p>
 <p>
-<a href="https://github.com/erroralex/Latent-Model-Organizer/releases/latest"><img src="https://img.shields.io/github/v/release/erroralex/Latent-Model-Organizer?style=flat-square&label=Download&labelColor=0A0A0D&color=4FD8D0&logo=windows&logoColor=4FD8D0" alt="Download"></a>
+<a href="https://github.com/erroralex/Latent-Model-Organizer/releases/latest"><img src="https://img.shields.io/github/v/release/erroralex/Latent-Model-Organizer?style=flat-square&label=Download&labelColor=0A0A0D&color=14706B&logo=windows&logoColor=4FD8D0" alt="Download"></a>
 <a href="https://github.com/erroralex/Latent-Model-Organizer/releases"><img src="https://img.shields.io/github/downloads/erroralex/Latent-Model-Organizer/total?style=flat-square&label=Downloads&labelColor=0A0A0D&color=15151A" alt="Downloads"></a>
 <a href="https://github.com/erroralex/Latent-Model-Organizer/stargazers"><img src="https://img.shields.io/github/stars/erroralex/Latent-Model-Organizer?style=flat-square&label=Stars&labelColor=0A0A0D&color=15151A" alt="Stars"></a>
 </p>
@@ -61,7 +59,7 @@
 <p>Turn a folder of raw images into a training-ready dataset. AI watermark removal (Florence-2 + LaMa), multi-format export, and image captioning (Qwen2-VL), all on your own GPU. No uploads, no API keys, no content filters.</p>
 <p><code>Electron</code> <code>TypeScript</code> <code>Python</code></p>
 <p>
-<a href="https://github.com/erroralex/Latent-Tools/releases/latest"><img src="https://img.shields.io/github/v/release/erroralex/Latent-Tools?style=flat-square&label=Download&labelColor=0A0A0D&color=4FD8D0&logo=windows&logoColor=4FD8D0" alt="Download"></a>
+<a href="https://github.com/erroralex/Latent-Tools/releases/latest"><img src="https://img.shields.io/github/v/release/erroralex/Latent-Tools?style=flat-square&label=Download&labelColor=0A0A0D&color=14706B&logo=windows&logoColor=4FD8D0" alt="Download"></a>
 <a href="https://github.com/erroralex/Latent-Tools/releases"><img src="https://img.shields.io/github/downloads/erroralex/Latent-Tools/total?style=flat-square&label=Downloads&labelColor=0A0A0D&color=15151A" alt="Downloads"></a>
 <a href="https://github.com/erroralex/Latent-Tools/stargazers"><img src="https://img.shields.io/github/stars/erroralex/Latent-Tools?style=flat-square&label=Stars&labelColor=0A0A0D&color=15151A" alt="Stars"></a>
 </p>
@@ -76,7 +74,7 @@
 <p>The fast, no-frills companion for pulling generation metadata out of locally generated AI images. Recursive parsing across multiple platforms, JSON persistence, and the Latent dark theme, in a JavaFX app that does one thing well.</p>
 <p><code>Java</code> <code>JavaFX</code></p>
 <p>
-<a href="https://github.com/erroralex/Metadata-Viewer/releases/latest"><img src="https://img.shields.io/github/v/release/erroralex/Metadata-Viewer?style=flat-square&label=Download&labelColor=0A0A0D&color=4FD8D0&logo=windows&logoColor=4FD8D0" alt="Download"></a>
+<a href="https://github.com/erroralex/Metadata-Viewer/releases/latest"><img src="https://img.shields.io/github/v/release/erroralex/Metadata-Viewer?style=flat-square&label=Download&labelColor=0A0A0D&color=14706B&logo=windows&logoColor=4FD8D0" alt="Download"></a>
 <a href="https://github.com/erroralex/Metadata-Viewer/releases"><img src="https://img.shields.io/github/downloads/erroralex/Metadata-Viewer/total?style=flat-square&label=Downloads&labelColor=0A0A0D&color=15151A" alt="Downloads"></a>
 <a href="https://github.com/erroralex/Metadata-Viewer/stargazers"><img src="https://img.shields.io/github/stars/erroralex/Metadata-Viewer?style=flat-square&label=Stars&labelColor=0A0A0D&color=15151A" alt="Stars"></a>
 </p>
