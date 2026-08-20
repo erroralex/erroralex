@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/36bba0c1-a027-4301-8cff-ced8926f2205" width="76" alt="AK">
+
 # Hi, I'm Alexander
 
 **Java Developer based in Umeå** &nbsp;·&nbsp; System Development Student &nbsp;·&nbsp; Constructing Code (Former Carpenter)
@@ -10,9 +12,7 @@
 
 *Background, stack, and projects, all in one place*
 
-<a href="https://erroralex.github.io/portfolio/">
-  <img src="https://raw.githubusercontent.com/erroralex/portfolio/main/assets/portfolio-hero-screenshot.png" width="620" alt="Portfolio site screenshot">
-</a>
+[![View portfolio](https://img.shields.io/badge/erroralex.github.io%2Fportfolio-View_live-14706B?style=flat-square&labelColor=0A0A0D&logo=googlechrome&logoColor=4FD8D0)](https://erroralex.github.io/portfolio/)
 
 ## My Projects
 
